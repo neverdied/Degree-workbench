@@ -1,0 +1,27 @@
+body {
+	background-color:black;
+	color:white;
+}
+a{
+	color:white;
+}
+img{
+	width:500px;
+}
+.Obvious{
+    background-color:white;
+	color:black;
+}
+.left{
+	width:55%;
+    float:left;
+    overflow:hidden;
+}
+.right{
+	width:42%;
+    float:right;
+}
+table{
+    table-layout:fixed;
+    word-break:break-all;
+}

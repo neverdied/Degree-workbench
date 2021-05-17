@@ -1,0 +1,15 @@
+.ADD{
+	opacity:0;
+}
+.note_1:hover .ADD{
+    opacity: 1;
+}
+
+.Login{
+	opacity:0;
+}
+.note_2:hover .Login{
+    opacity: 1;
+}    
+
+
